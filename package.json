@@ -14,6 +14,7 @@
     "eslint": "eslint . --ext .js,.ts,.jsx,.tsx"
   },
   "dependencies": {
+    "daisyui": "^2.19.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
